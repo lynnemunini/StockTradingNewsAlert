@@ -1,5 +1,5 @@
 # To get the phone number to send from, account_sid and auth_token make an account on twilio
-# Also make acccounts on News API and Alpha_Vantage to get the api keys
+# Also make acccounts on News API and Alpha Vantage to get the api keys
 
 
 import requests
