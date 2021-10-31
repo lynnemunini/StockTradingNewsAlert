@@ -1,3 +1,7 @@
+# To get the account_sid and auth_token make an account on twilio
+# Also make acccounts on News API and Alpha_Vantage to get the api keys
+
+
 import requests
 # import os
 import html
